@@ -10,7 +10,7 @@
   "author": "Jer-Ofc",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:AdrianTzy/Baileys",
+    "@adiwajshing/baileys": "npm:baileys@^6.0.7",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@vitalets/google-translate-api": "^7.0.0",
